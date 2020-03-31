@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五峰集
-#+DATE: 2020-03-31 11:35:50.184552
+#+DATE: 2020-03-31 11:35:50.320720
 #+PROPERTY: ID KR4d0531
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0531_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -121,7 +121,7 @@
 ¶
 <pb:KR4d0531_WYG_001-6a>¶
 　　望處積雲深妙見此君心中虚抱元氣不受一塵侵嗟¶
-哉人生逐利名雞犬放去猶知尋我愛坐君閣㳺戯猗¶
+哉人生逐利名雞犬放去猶知尋我愛坐君閣㳺戲猗¶
 猗林明月照我懐清風吹我襟消磨胷中沈著病無愧¶
 衞武生于今¶
 ¶

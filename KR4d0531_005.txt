@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 五峰集
-#+DATE: 2020-03-31 11:35:50.278573
+#+DATE: 2020-03-31 11:35:50.406340
 #+PROPERTY: ID KR4d0531
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4d0531_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -269,7 +269,7 @@
 命所需必遂可謂吉矣故孔子曰無憂者其惟文王¶
 乎¶
 ¶
-　　訟有孚窒&KR0357;中吉終凶利見大人不利涉大川¶
+　　訟有孚窒惕中吉終凶利見大人不利涉大川¶
 ¶
 <pb:KR4d0531_WYG_005-13b>¶
 　　韓馮翊之説蕭趙廣漢之訟魏皆中無孚實不知畏¶
